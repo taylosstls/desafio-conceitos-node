@@ -1,5 +1,6 @@
 # 🚀 Desafio - Conceitos NodeJS
-Primeiro desafio da Rocketseat utilizando os conceitos de NodeJS
+**Primeiro desafio da Rocketseat utilizando os conceitos de NodeJS**<br />
+Os objetos devem ser válidos utilizando <code>"yarn test"</code>
 
 Uma aplicação para armazenar repositórios de portfólio, que irá permitir a criação, listagem, atualização e remoção dos repositórios.
 Além disso permitir que os repositórios possam receber "likes".
